@@ -1,0 +1,5 @@
+.env
+.venv/
+.streamlit/
+.vscode/
+__pycache__/prompts.cpython-311.pyc
